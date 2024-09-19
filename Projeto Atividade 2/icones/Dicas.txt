@@ -1,0 +1,5 @@
+1.Criar um diretorio com seu primeironome_primeiraletradosegundonome
+exemplo: cesar_a
+2.Transferir seu projeto para a pasta e roda-lo no servidor atraves do endereço : http://192.168.49.220/cesar_a
+3.Acessar o projeto de outros colegas
+4.O projeto deve ter um arquivo index.html

@@ -1,0 +1,50 @@
+/*Coloque uma uma imagem bgbody.gif no corpo do trabalho*/
+body {
+    background-color: #05ffb0;
+}
+
+/* classes usadas para formatar fontes*/
+h1{
+    color:red;
+	text-align:justify;
+	font-weight:bold;
+}
+
+h4{
+    color:blue;
+	text-align:justify;
+	font-weight:bold;
+	text-transform: uppercase;
+}
+
+/* classes usada para formatar uma linha */
+hr{
+	color:#CCCCCC;
+}
+
+/* Definições de estilo para caixas e botões de formulario padrao */
+.formulario
+{
+	font-family:verdana; 
+	font-size:8pt; 
+	color:#336699; 
+	background:#FFE078; 
+	border-width:1px; 
+	border-style:solid; 
+	border-color=#336699;
+}
+
+/* classes usadas para formatar formulários */
+.botao
+{
+	font-family:verdana; 
+	font-size:8pt; 
+	color:#FFE078; 
+	background:#336699; 
+	border-width:1px; 
+	border-style:solid; 
+	border-color=#FFE078;
+}
+
+
+
